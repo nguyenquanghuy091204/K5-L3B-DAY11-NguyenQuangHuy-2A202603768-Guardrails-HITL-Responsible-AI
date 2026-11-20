@@ -4,6 +4,10 @@
 > 🎯 **Mục tiêu:** đóng vai **Blue Team** để học cách xây Guardrails phòng thủ, rồi đóng vai **Red Team** để tấn công agent **Red** hoặc **Red Advance**.  
 > ✅ Làm theo **Checkpoint 1 → 5** trong [`CHECKPOINTS.md`](CHECKPOINTS.md) · nộp theo [`SUBMISSION.md`](SUBMISSION.md).
 
+- **Họ và tên:** Nguyễn Quang Huy
+- **MSSV:** `2A202603768`
+- **Lớp:** `K5-L3B`
+
 ---
 
 ## Thời lượng
